@@ -6,6 +6,14 @@ I'm passionate about solving challenging problems that others find difficult or 
 ## What I can do:
 
 ### Full-stack | Blockchain (Ethereum | Solana | Cosmos | Cardano | Aptos | Sui | Near | Concordium) 
+  
+  #### Full-stack
+  * Backend service by Go/Rust/Nodejs/Python/C#
+  * Website development by MERN/MEAN/MEVN stack.
+  * Ecommerce using Woocommerce, Shopify and Opencart
+  * No-coding website development by Wordpress, Webflow and Bubbio.io
+  * Flexible Database Management (SQL/NoSQL)
+  * Development of browser extension like crypto wallet
 
   #### Ethereum ( Solidity/Web3 Developer )
   * ERC20, Upgradable Contract, Staking, Presale,
@@ -39,12 +47,6 @@ I'm passionate about solving challenging problems that others find difficult or 
   * Token development
   * Airdrop, Staking, NFT minting, staking, marketplace Contract
   * Experience in web3 integration to FE
-  
-  #### Full-stack
-  * Backend service by Go/Rust/Nodejs/Python/C#
-  * Website development by MERN/MEAN/MEVN stack.
-  * Flexible Database Management (SQL/NoSQL)
-  * Development of browser extension like crypto wallet
   
 
 ### Experience 
